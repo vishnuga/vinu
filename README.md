@@ -16,3 +16,10 @@ configure username and password
 ===============================
 git config --global user.name githubusername
 git config --global user.password githubpassword
+
+Git Branch
+===========================
+git branch -list available baranches
+git baranch <branchname> -create new branch
+git checkout <branchname>
+
